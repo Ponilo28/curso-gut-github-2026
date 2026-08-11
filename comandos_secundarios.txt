@@ -1,3 +1,13 @@
 Este arquivo contém informações adicionais para git
+
 - Primeiro comando
 - Segundo comando 
+
+# Comandos mais genéricos
+- Comandos mais estranhos
+
+# Mais comandos
+Odim
+Poseidon
+Cerberus
+
